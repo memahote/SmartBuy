@@ -1,6 +1,7 @@
 # SmartBuy
 
-Projet Gestionnaire de Budget Intelligent
+#Projet Gestionnaire de Budget
+
 Ce projet, développé dans le cadre de la formation Apple Foundation de Simplon, est une application innovante de gestion de budget destinée à aider les utilisateurs à mieux gérer leurs finances personnelles.
 
 Objectif
