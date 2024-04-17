@@ -14,6 +14,7 @@ Conseils personnalisés pour économiser de l'argent
 Prévisions des dépenses mensuelles, y compris les prélèvements
 Possibilité de bloquer les fonds bancaires en fonction des prévisions de dépenses importantes, avec la possibilité de débloquer les fonds si nécessaire.
 
+
 Technologies utilisées
 Ce projet utilise les technologies suivantes :
 
