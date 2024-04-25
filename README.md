@@ -5,6 +5,7 @@
 Ce projet, développé dans le cadre de la formation Apple Foundation de Simplon, est une application innovante de gestion de budget destinée à aider les utilisateurs à mieux gérer leurs finances personnelles.
 
 Objectif
+
 L'objectif principal de cette application est d'aider les utilisateurs à mieux comprendre et contrôler leurs dépenses en leur fournissant des analyses détaillées basées sur leurs revenus. Elle propose également des conseils personnalisés pour économiser de l'argent en fonction des habitudes d'achat de l'utilisateur.
 
 Fonctionnalités principales :
